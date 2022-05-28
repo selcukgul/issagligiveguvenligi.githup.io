@@ -1,0 +1,92 @@
+/* CSS Document */
+body,h1,ul,li,p{
+    margin: 0;
+    padding: 0;
+}
+#sayfa{
+	width: 1000px;
+	margin: 10px auto;
+	background: #0e7594;
+}
+#ust{
+	width: 1000px;
+	height: 150px;
+	background: #160855;
+}
+#baslik{
+	float: left;
+	margin-left: 30px;
+	margin-top: 45px;
+    font-size: 1.2em;
+    color: white;
+    text-decoration: none;
+}
+ 
+#menu{
+    float: left;
+    list-style: none;
+    margin-top: 2.5em;
+}
+ 
+#menu li{
+    float: left;
+}
+ 
+#menu li a{
+    color: white;
+    text-decoration: none;
+	margin-right: 20px;
+	margin-left: 10px;
+ 
+}
+ 
+#orta-sol{
+	width: 780px;
+	margin: 5px 0px 0px 0px;
+	float: left;
+	padding-left: 5px;
+	padding-right: 5px;
+	text-align: justify;
+	background: #EBE4E4;
+}
+ 
+#orta-sag{
+	width: 200px;
+	margin-top: 5px;
+	margin-left:5px;
+	float: left;
+}
+#orta-sag h3{
+	margin: 0px auto;
+	text-align: center;
+	color: azure;
+	font-size: 1.4em;
+}
+#liste-1{
+	list-style: none;
+	padding-left: 20px;
+	padding-top: 30px;
+	
+}
+ 
+#liste-1 li{
+	padding-top: 10px;
+}
+#liste-1 li a{
+		
+	text-decoration: none;
+	color: aliceblue;
+	font-size: 1.2em;
+}
+ 
+#alt{
+	width: 1000px;
+	background:#160855;
+	text-align: center;
+	margin-top: 5px;
+	color: aliceblue;
+}
+ 
+.temizle{
+	clear: both;
+}
